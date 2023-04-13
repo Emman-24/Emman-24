@@ -1,4 +1,4 @@
-### Hi , I am Emmanuel Serna Yanes 👋
+### Hi , I am Emmanuel Serna Yanes 
 
 - 💜 I’m currently learning the Kotlin programming language.
 - 📱 I'm focused on becoming an Android developer

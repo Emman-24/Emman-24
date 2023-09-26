@@ -9,7 +9,7 @@
 As I'm passionate about mobile app development and want to contribute to creating innovative solutions in this field.
 This repository is a space where you can find some of my Kotlin and Android projects and practice exercises.
 
-I hope with this repository create the beggining of a great history as an Android developer✨
+I hope with this repository create the beggining of a great history as a Developer✨
 
 I hope you find my work useful, and I welcome any feedback you can provide to help me to improve my programming skills.
 

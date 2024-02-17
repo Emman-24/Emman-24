@@ -4,7 +4,7 @@
 
 
 - 💜 I’m currently learning the Kotlin programming language.
-- 📱 I'm focused on becoming an Android developer
+- 📱 I'm focused on becoming a Developer
 
 As I'm passionate about mobile app development and want to contribute to creating innovative solutions in this field.
 This repository is a space where you can find some of my Kotlin and Android projects and practice exercises.

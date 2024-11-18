@@ -3,15 +3,15 @@
 </div>
 
 
-- 💜 I’m currently learning the Kotlin programming language.
-- 📱 I'm focused on becoming a Developer
+- 💜 Kotlin Developerlanguage.
+- 📱 Android Developer
 
 As I'm passionate about mobile app development and want to contribute to creating innovative solutions in this field.
 This repository is a space where you can find some of my Kotlin and Android projects and practice exercises.
 
 I hope with this repository create the beggining of a great history as a Developer✨
 
-I hope you find my work useful, and I welcome any feedback you can provide to help me to improve my programming skills.
+I hope you find my work useful, and I welcome any feedback.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -25,21 +25,3 @@ I hope you find my work useful, and I welcome any feedback you can provide to he
   
 </p>
 
-
-
-
-<!--
-**Emman-24/Emman-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emman-24&show_icons=true&theme=radical)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

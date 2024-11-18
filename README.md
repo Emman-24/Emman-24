@@ -3,7 +3,7 @@
 </div>
 
 
-- 💜 Kotlin Developerlanguage.
+- 💜 Kotlin Developer.
 - 📱 Android Developer
 
 As I'm passionate about mobile app development and want to contribute to creating innovative solutions in this field.

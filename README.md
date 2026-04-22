@@ -5,6 +5,7 @@
 
 - 💜 Kotlin Developer.
 - 📱 Android Developer
+- 💚  Spring Boot.
 
 As I'm passionate about mobile app development and want to contribute to creating innovative solutions in this field.
 This repository is a space where you can find some of my Kotlin and Android projects and practice exercises.
